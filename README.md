@@ -4,11 +4,15 @@
 
 ### Full Stack Web Developer
 
-Building thoughtful digital experiences through clean code and modern web technologies.
+Building modern web experiences with clarity, performance, and intention.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=4000&pause=1500&color=9CA3AF&center=true&vCenter=true&width=700&lines=HTML+•+CSS+•+JavaScript;Information+Technology+Student;Always+learning.+Always+building." />
+<p>
+  <a href="https://github.com/Phemelo-cyber">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1200&color=A1A1AA&center=true&vCenter=true&width=700&lines=HTML+•+CSS+•+JavaScript;Information+Technology+Student;Building+beautiful+digital+experiences." alt="Typing Animation">
+  </a>
+</p>
 
 </div>
 
@@ -16,33 +20,30 @@ Building thoughtful digital experiences through clean code and modern web techno
 
 ## About
 
-I'm **Phemelo Mabelane**, an Information Technology student from South Africa with a passion for building modern websites and intuitive user experiences.
+I'm **Phemelo Mabelane**, an Information Technology student from South Africa focused on building modern, responsive web applications.
 
-I enjoy creating responsive interfaces, writing clean JavaScript, and continuously improving my development skills through real-world projects.
-
----
-
-## Selected Technologies
-
-```text
-HTML          CSS
-
-JavaScript    Java
-
-SQL           Git
-
-GitHub        VS Code
-```
+I enjoy transforming ideas into clean, accessible, and user-friendly digital experiences while continuously improving my craft through real-world projects.
 
 ---
 
-## Currently Building
+## Selected Work
 
-- Personal Portfolio
-- Modern Landing Pages
-- Java Applications
-- UI Components
-- Frontend Experiments
+> Coming soon.
+
+- Portfolio Website
+- Weather Dashboard
+- Task Manager
+- Student Management System
+
+---
+
+## Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,git,github,vscode"/>
+
+</p>
 
 ---
 
@@ -50,9 +51,9 @@ GitHub        VS Code
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Phemelo-cyber&show_icons=false&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9CA3AF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Phemelo-cyber&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=A1A1AA&icon_color=ffffff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelo-cyber&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9CA3AF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelo-cyber&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=A1A1AA"/>
 
 </p>
 
@@ -62,10 +63,6 @@ GitHub        VS Code
 
 </p>
 
----
-
-## Activity
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phemelo-cyber&theme=github-dark&hide_border=true"/>
@@ -74,20 +71,38 @@ GitHub        VS Code
 
 ---
 
+## Currently Building
+
+- Personal Portfolio
+- Responsive Landing Pages
+- Java Applications
+- UI Components
+- Open Source Projects
+
+---
+
 ## Philosophy
 
-> Simplicity is not the absence of complexity.
+> Simplicity is not about having less.
 >
-> It is the mastery of it.
+> It's about making room for what matters.
+
+---
+
+## Connect
+
+<p align="left">
+
+<a href="mailto:phemelolesedi1127@gmail.com">Email</a> •
+<a href="https://github.com/Phemelo-cyber">GitHub</a> •
+<a href="https://www.linkedin.com/">LinkedIn</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-**Phemelo Mabelane**
-
-South Africa
-
-<phemelolesedi1127@gmail.com>
+Designed and built by **Phemelo Mabelane**
 
 </div>
