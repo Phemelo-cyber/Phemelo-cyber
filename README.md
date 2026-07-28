@@ -6,54 +6,55 @@
 
 Building modern web experiences with clarity, performance, and intention.
 
-<br>
-
-<p>
-  <a href="https://github.com/Phemelo-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1200&color=A1A1AA&center=true&vCenter=true&width=700&lines=HTML+•+CSS+•+JavaScript;Information+Technology+Student;Building+beautiful+digital+experiences." alt="Typing Animation">
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Information+Technology+Student;Building+Modern+Web+Experiences;Always+Learning.+Always+Building." alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm **Phemelo Mabelane**, an Information Technology student from South Africa focused on building modern, responsive web applications.
+I'm **Phemelo Mabelane**, an Information Technology student from South Africa with a passion for building modern, responsive, and user-friendly web applications.
 
-I enjoy transforming ideas into clean, accessible, and user-friendly digital experiences while continuously improving my craft through real-world projects.
-
----
-
-## Selected Work
-
-> Coming soon.
-
-- Portfolio Website
-- Weather Dashboard
-- Task Manager
-- Student Management System
+I enjoy turning ideas into clean digital experiences using HTML, CSS, JavaScript, Java, and SQL while continuously improving through real-world projects.
 
 ---
 
-## Technologies
+## Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
 
 </p>
 
 ---
 
-## GitHub
+## Featured Projects
+
+### Portfolio Website
+A clean and modern portfolio showcasing my projects and skills.
+
+### Weather Dashboard
+A responsive weather application powered by a weather API.
+
+### Task Manager
+A productivity application for organising daily tasks.
+
+### Student Management System
+A Java application demonstrating Object-Oriented Programming principles.
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Phemelo-cyber&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=A1A1AA&icon_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Phemelo-cyber&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelo-cyber&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=A1A1AA"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phemelo-cyber&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -63,17 +64,11 @@ I enjoy transforming ideas into clean, accessible, and user-friendly digital exp
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Phemelo-cyber&theme=github-dark&hide_border=true"/>
-
-</p>
-
 ---
 
 ## Currently Building
 
-- Personal Portfolio
+- Modern Portfolio Website
 - Responsive Landing Pages
 - Java Applications
 - UI Components
@@ -81,27 +76,32 @@ I enjoy transforming ideas into clean, accessible, and user-friendly digital exp
 
 ---
 
-## Philosophy
+## Goals for 2026
 
-> Simplicity is not about having less.
->
-> It's about making room for what matters.
+- Build solid projects
+- Build high-quality web applications
+- Master modern JavaScript
+- Strengthen Java and SQL skills
+- Contribute to open-source projects
+- Create a strong professional portfolio
 
 ---
 
-## Connect
+## Contact
 
-<p align="left">
+Email: **phemelolesedi1127@gmail.com**
 
-<a href="mailto:phemelolesedi1127@gmail.com">Email</a> •
-<a href="https://github.com/Phemelo-cyber">GitHub</a> •
-<a href="https://www.linkedin.com/">LinkedIn</a>
+GitHub: **https://github.com/Phemelo-cyber**
 
-</p>
+LinkedIn: *Coming Soon*
 
 ---
 
 <div align="center">
+
+*"Great software is built with patience, consistency, and attention to detail."*
+
+<br><br>
 
 Designed and built by **Phemelo Mabelane**
 
